@@ -50,7 +50,7 @@ export class News extends Component {
         <h2>GetNews - Breaking Headlines</h2>
         <div className="row">
             <div className="col md-4">
-                <NewsItem title="myTitle" description="mydesc" imageurl="https://a4.espncdn.com/combiner/i?img=%2Fi%2Fcricket%2Fcricinfo%2F1219926_1296x729.jpg" newsurl="TODO"/>
+                <NewsItem title="myTitle" description="mydesc" imageurl="https://a4.espncdn.com/combiner/i?img=%2Fi%2Fcricket%2Fcricinfo%2F1219926_1296x729.jpg"/>
             </div>
             <div className="col md-4">
                 <NewsItem title="myTitle" description="mydesc"/>
